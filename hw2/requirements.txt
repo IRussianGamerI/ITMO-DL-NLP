@@ -1,0 +1,14 @@
+corus
+pandarallel
+pymorphy2
+nltk
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+textblob
+ipywidgets
+gensim
+navec
