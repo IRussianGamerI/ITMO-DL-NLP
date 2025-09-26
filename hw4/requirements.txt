@@ -1,0 +1,12 @@
+transformers[torch]
+corus
+datasets
+torch
+pandas
+scikit-learn
+seqeval
+gensim
+razdel
+evaluate
+accelerate
+deeppavlov
