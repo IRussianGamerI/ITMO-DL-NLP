@@ -1,0 +1,9 @@
+numpy
+matplotlib
+nltk
+scikit-learn
+torch
+tqdm
+ipython
+subword-nmt
+vocab
