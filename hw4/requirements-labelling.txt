@@ -1,0 +1,8 @@
+pandas
+tqdm
+corus
+deeppavlov
+transformers
+torch
+pyarrow
+transformers<4.30.0
